@@ -1,1 +1,23 @@
 *.sh
+*.[!a-zA-Z0-9]*
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments (if any)
+.venv/
+env/
+venv/
+
+# C/C++ compiled objects and executables
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.a
+*.so
+*.dll
+*.dylib
