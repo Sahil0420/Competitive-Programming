@@ -1,0 +1,426 @@
+What do you call a computer on a network that requests files from another computer?
+A client
+A host
+A router
+A web server
+A client
+Which programs reduce the size of the files so that they occupy lesser space on the disk?
+Backup
+Uninstall Program
+File Compression
+Disk Cleanup 
+File Compression
+Popular network operating systems include all of the following EXCEPT ?
+NetWare 
+Windows NT Server 
+Windows XP 
+Microsoft DOS
+Microsoft DOS
+Type of software that can be described as “end-user” software
+DOS
+application software
+system software
+operation software
+application software
+________ provides the user interface, controls the computers resources and runs programs.
+Drivers
+Desktop
+Operating system
+Menus
+Operating system
+______________utility identifies non essential files on the hard disk and erases them only when user allows their erasure.
+Backup
+Uninstall Program
+File Compression
+Disk Cleanup
+Disk Cleanup
+Which of these operating system does not have a graphical user interface ?
+Windows 95
+Mac OS
+Linux
+Ms Dos
+Ms Dos
+GUI stands for
+Graphical User Interest
+Greater User Interface
+Graphical User Interface
+Graphical Union Interface
+Graphical User Interface
+_______ are also known as Service programs.
+OS
+Device Drivers
+Utilities
+Desktop
+Utilities
+______is a 16-bit code designed to support international languages like Chinese and Japanese.
+Unicode
+EBCDIC
+ASCII
+Digital
+Unicode
+From the given list, which is not a type of Memory Chip
+ASCII
+RAM
+ROM
+CMOS
+ASCII
+The smallest unit in a digital system is a
+Mega Byte
+text
+bit
+character
+bit
+ALU performs two types of operations,_____
+Arial and CIrcular
+Arithmetic and  Logical
+Central and circular
+Arial and Linear
+Arithmetic and  Logical
+ROM stands for
+Read Access memory
+Read only memory
+Random Access Memory
+Raw Access Memory
+Read only memory
+“Microprocessor” and “Memory” are the important component of ___
+System unit
+Input Devices
+Desktop
+Output Device
+System unit
+Which among the following is smallest in size ?
+Notebooks System unit
+Tablet PC’s
+PDA System Unit
+Desktop System unit
+PDA System Unit
+A 32 bit word computer can access____ bytes at a time.
+4
+16
+32
+8
+32
+Which of these is not an output device?
+Monitor
+Plotter
+Joystick
+Printer
+Joystick
+Ink-jet, laser and thermal are common types of_____.
+Keyboard
+Mouse
+Monitors
+Printers
+Printers
+Which is the most  Common type of Audio-Output Device.
+Monitor
+Speaker
+Keyboard
+Printer
+Speaker
+Who is known as father of computer?
+Charles Babbage
+Tim Berners Lee
+Dougles Carl Engelbart
+Sabeer Bhatia
+Charles Babbage
+The first computer was  for commercial use was
+MANIAC
+ENIAC
+UNIVAC
+Edvac
+UNIVAC
+In which city is India’s First Post Office ATM opened?
+Chennai
+New Delhi
+Hyderabad
+Mumbai
+Chennai
+Vacuum Tubes were used by ______ Generation of Computers.
+First
+Second
+Third
+Fourth
+First
+Which of the following basic operation are performed by a computer?
+Arithmetic operation
+Logical Operation
+Storage and retrieval
+All of these
+All of these
+The word ‘computer’ was derived from which of the following languages?
+French
+Latin
+German
+Spanish
+Latin
+The first mechanical computer designed by Charles Babbage was called
+Abacus
+Analytical Engine
+Calculator
+Processor
+Analytical Engine
+CPU consists of ___
+Arithmetic  and Logical unit and Register
+Arithmetic and Logical Unit, Register and Control unit
+System unit and Memory
+Hard disk and Control unit
+Arithmetic and Logical Unit, Register and Control unit
+A device that is connected to a computer but it is NOT part of the core computer architecture is known as
+Processing Device
+Memory Device
+Peripheral Device
+On-Board Device 
+Peripheral Device
+Program Counter (PC) register stores the
+Address of the first memory block
+Address of the last memory block
+Address of the next instruction to be executed
+Size of the primary memory
+Address of the next instruction to be executed
+In which of the following version of computer, microprocessor was used?
+First generation computer
+Fourth generation computer
+Third generation computer
+Second generation computer
+Fourth generation computer
+First Mini computer was-
+ENIAC
+PDP-8
+UNISAC
+EDVAC
+PDP-8
+Which device sends information to a computer system for processing?
+Monitor
+Printing
+Input
+Output
+Input
+The Device that a physical image into a digital one is called:
+Scanner
+Image Converter
+Printer
+Recorder
+Scanner
+The Technology of scanning that recognized handwritten text and printed text is:
+MICR
+OMR
+OCR
+BCR
+OCR
+Which key deletes the character to the left of the cursor ?
+End
+Backspace
+Home
+Delete
+Backspace
+Ctrl, shift and alt are called
+Adjustment keys
+Function keys
+Modifier keys
+Alphanumeric keys
+Adjustment keys
+Which of the following is used by banking industry for faster processing of large volume of cheques?
+Bar-code Reader
+OCR
+MICR
+OMR
+MICR
+Print-device resolutions are measured in
+Dots per inch
+Bits per inch
+Pictures per inch
+Images per inch
+Dots per inch
+What does VGA stand for?
+Vector Graphics Association
+Video Graphics Association
+Vector Graphics Array
+Video Graphics Array
+Video Graphics Array
+The most important characteristic of a monitor is 
+Clarity
+Dot pitch
+Resolution
+Refresh rate
+Clarity
+The keyboard keys that are labeled F1, F2 and so on are called
+Typewriters keys
+Function keys
+Special purpose keys
+Numeric keys
+Function keys
+Which of the the following device is not from pointing type of device?
+Mouse
+Touch screen
+Keyboard
+Joystick
+Keyboard
+Which of the following device is used to play fast computer games?
+Touch Surface
+Touch screen
+Joystick
+Track ball.
+Joystick
+________translates and executes program at run time line by line
+Compiler
+Interpreter
+Linker
+Loader
+Interpreter
+Unwanted repetitious messages, such as unsolicited bulk e-mail is known as
+Spam
+Trash
+Calibri
+Courier
+Spam
+Which among the following is responsible for allocating IP addresses and managing the domain name system?
+Domain name warehousing
+Internet Corporation For Assigned Names and Numbers
+Internet Assigned Numbers Authority
+None of these
+Domain name warehousing
+A generic name for Intel processors released after the original 8086 processor is ______ ?
+Pentium
+x86
+Pentium 286
+None of these
+Pentium
+A network that is connected to the Internet, but uses encryption to scramble all the data sent through the Internet is called ?
+My network
+Virtual private Network
+Social Network
+None of these
+My network
+The software tool that enable a user to interact with computer for a specific purpose are known as?
+Application
+Hardware
+Networked software
+None of these
+Application
+The performance of a hard drive or other storage device , meaning how long it takes to locate a file is called ?
+Response Time
+Access Time
+Quick Time
+None of these
+Quick Time
+The word bandwidth is also used to mean ________?
+width of the data cable
+number of the computers on a particular network
+amount of data transferred
+None of these
+amount of data transferred
+Which of the following tool is not normally used during system analysis?
+Program flow chart
+Grid chart
+Question check list
+None of these
+None of these
+In order to save word document as a web page you need to?
+put the appropriate graphics and links on the document
+save the document in simple text format
+use your web browser as an editor and save as URL
+save as HTML
+use your web browser as an editor and save as URL
+The ______ of system includes the programs or instructions.
+hardware
+icon
+software
+information
+icon
+The advantage of DRAM is ?
+It is cheaper than SRAM
+It can store more than that of SRAM
+It is faster than SRAM
+Both A and C
+Both A and C
+A word in a web page that, when clicked, opens another document is called ___
+anchor
+hyperlink
+reference
+URL
+hyperlink
+One Terabyte (1 TB) is equal to?
+1028 GB
+1012 GB
+1000 GB
+1024 GB
+1024 GB
+Which operating system is developed and used by Apple Inc?
+Windows
+Android
+iOS
+UNIX
+iOS
+Which of the following places the common data elements in order from smallest to largest?
+Character, File, Record, Field, Database, File
+Character, Record, Field, Database, File
+Character, Field, Record, File, Database
+Bit, Byte, Character, Record, Field, File, Database
+Character, Field, Record, File, Database
+Which of these networks is usually the fastest?
+WAN
+MAN
+LAN
+All the networks are equally fast
+LAN
+Which of the following is a general-purpose network?
+Storage Area Network (SAN)
+Local Area Network (LAN)
+Enterprise Area Network (EAN)
+Virtual Area Network (VAN)
+Local Area Network (LAN)
+What is the IEEE standard for Gigabit Ethernet?
+IEEE 802.3ab
+IEEE 802.34
+IEEE 802.3g
+IEEE 802.3z.
+IEEE 802.3ab
+Which of the following options acts as a barrier between local Area Network (LAN) and the Internet?
+SQL Injection
+Hashing
+Firewall
+Cross Server Scripting
+Firewall
+Which of the following networks uses telephone lines?
+WAN
+LAN
+PAN
+Wireless
+WAN
+Which of the following types of Networks is larger than LAN but smaller than WAN?
+PAN
+CAN
+MAN
+None of these
+MAN
+For textual Chatting on internet, most common chat protocol is____.
+HLR
+IRC
+H.323
+SIP
+IRC
+Infrastructure WLAN, two devices communicate-
+Directly
+Through wires
+Through routers
+Through an access Point
+Through an access Point
+If computer in a LAN are connected along a single cable than the name given to such a topology is
+Bus topology
+Star topology
+Mesh topology
+Hierarchical topology
+Bus topology
+The topology in which every node is connected only to its immediate neighbours is called:
+Bus
+Mesh
+Ring
+Star
+Ring
+Which of the following networks topology has more complex strcuture?
+BUS
+Star
+Mesh
+Hybird	
+Hybird
